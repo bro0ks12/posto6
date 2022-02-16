@@ -178,10 +178,15 @@ div.desc {
 .mariscada p{
 color: white; 
 text-align: center; 
-margin-top: 80px; 
+margin-top: 60px; 
 margin-bottom: 80px; 
 font-family: 'Montserrat', sans-serif; 
 font-size: 70px;
+}
+
+.mariscada p:nth-child(2) {
+    margin-top: -40px;
+    margin-bottom: 30px;
 }
 
 #myBtn {
